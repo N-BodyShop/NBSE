@@ -1,0 +1,7 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: 'NBSE 2025'
+copyright: 'An N-Body Shop Project'
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
