@@ -14,3 +14,4 @@ from PIs, postdocs, and students in the N-Body Shop highlighting our work on sta
 | __SOC__ | __LOC__ |
 | ------- | ------- |
 | Ben Keller (University of Memphis) | Philip Chang (UW Milwaukee) |
+| | Jillian Bellovary (City University of New York) |
