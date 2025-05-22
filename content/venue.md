@@ -20,6 +20,12 @@ For the conference outing, we will be going on a kayak tour of the Milwaukee Riv
 the Milwaukee River Roundup.  The River Roundup will have food, drinks, and live
 music as we paddle down the river.  Make sure you bring your sunscreen and good kayaking clothes!
 
+The date is August 20 for Funkclub Wagon. Note that the tickets and the kayak
+rental is non-refundable and it could be cancelled if the weather turns. So the
+advice is the check the weather a few days before and if it looks good, go ahead
+and buy it. Milwaukee weather forecasts are not reliable more than a few days
+ahead.
+
 ## Hotels and Accomodations
 ### TBA
 
