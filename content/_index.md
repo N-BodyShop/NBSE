@@ -15,3 +15,4 @@ from PIs, postdocs, and students in the N-Body Shop highlighting our work on sta
 | ------- | ------- |
 | Chair: Ben Keller (University of Memphis) | Chair: Philip Chang (UW Milwaukee) |
 | Tom Quinn (University of Washington) | Jillian Bellovary (City University of New York) |
+| Alex Pettit (CSU Sacramento) | |
