@@ -27,7 +27,14 @@ and buy it. Milwaukee weather forecasts are not reliable more than a few days
 ahead.
 
 ## Hotels and Accomodations
-### TBA
+### Residence Inn Milwaukee Downtown ($185/night)
+__Last Day to Book: July 27__
+The Residence Inn Milwaukee Downtown can be booked with the conference registration rate 
+[at this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1751998385442&key=GRP&app=resvlink).
+
+The Residence Inn is a 3-star hotel at 648 N Plankinton Ave, just about 1 block
+(a 3 minute walk) from the conference venue.  Rooms with King and Queen beds are
+available.
 
 ## Getting to Milwaukee
 Milwaukee is served by the Milwaukee Mitchell International Airport (MKE), which
