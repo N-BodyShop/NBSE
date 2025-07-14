@@ -8,5 +8,5 @@ draft: false
 - Registration Closes (__July 30__)
 - Registration Fee Due (__August 10__)
     - Registration fee is $90.  You will receive an email with a link to pay after you register.
-- Hackathon and Tutorial (__August 18-19__)
-- Conference Talks (__August 20-22__)
+- Hackathon and Tutorial (__August 18__)
+- Conference Talks (__August 19-21__)

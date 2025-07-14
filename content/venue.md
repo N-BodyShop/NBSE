@@ -36,6 +36,15 @@ The Residence Inn is a 3-star hotel at 648 N Plankinton Ave, just about 1 block
 (a 3 minute walk) from the conference venue.  Rooms with King and Queen beds are
 available.
 
+### Hyatt Regency Milwaukee ($164/night)
+__Last Day to Book: July 31__ 
+The Hyatt Regency Milwaukee can be booked with the conference registration rate
+[at this link](https://www.hyatt.com/en-US/group-booking/MKERM/G-UWMN).
+
+The Hyatt Regency Milwaukee is a 4-star hotel at 333 W Kilbourn Ave, about a 7
+minute walk from the conference venue.  Rooms with King and Queen beds are
+available.
+
 ## Getting to Milwaukee
 Milwaukee is served by the Milwaukee Mitchell International Airport (MKE), which
 is approximately 15 minutes from the conference venue.  It is also accessible by

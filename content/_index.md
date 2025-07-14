@@ -3,12 +3,12 @@ title: 'N-Body Shop Excellence Conference 2025'
 draft: false
 ---
 {{< lead >}}
-August 18-22 @ Milwaukee, Wisconsin
+August 18-21 @ Milwaukee, Wisconsin
 {{< /lead >}}
 
 {{< figure src="images/milwaukee.jpg" alt="Bfkenney, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">}}
-Join us in August 2025 for the N-Body Shop Excellence Conference in Milwaukee, Wisconsin. From August 18-19, we will host a hackathon and
-tutorials for using and developing ChaNGa and gasoline, followed by a three-day conference on August 20-22. The conference will feature talks 
+Join us in August 2025 for the N-Body Shop Excellence Conference in Milwaukee, Wisconsin. On August 18, we will host a hackathon and
+for ChaNGa and gasoline users and developers, followed by a three-day conference on August 19-21. The conference will feature talks
 from PIs, postdocs, and students in the N-Body Shop highlighting our work on star formation, galaxy evolution, cosmology and more.
 
 | __SOC__ | __LOC__ |
