@@ -5,7 +5,7 @@ draft: false
 
 - Registration Opens (__June 1__)
 - Last Day to Book Hotel at Residence Inn Milwaukee Downtown (__July 27__)
-- Registration Closes (__July 31__)
+- Registration Closes (__August 6__)
 - Registration Fee Due (__August 10__)
     - Registration fee is $90.  You will receive an email with a link to pay after you register.
 - Hackathon and Tutorial (__August 18__)
