@@ -11,6 +11,9 @@ Join us in August 2025 for the N-Body Shop Excellence Conference in Milwaukee, W
 for ChaNGa and gasoline users and developers, followed by a three-day conference on August 19-21. The conference will feature talks
 from PIs, postdocs, and students in the N-Body Shop highlighting our work on star formation, galaxy evolution, cosmology and more.
 
+Conference sessions will be streamed on zoom, connect with [this link](https://wisconsin-edu.zoom.us/j/96362006211?pwd=WK0dq3UBdIBM1pyEzvtHyaaVhRPE29.1)
+
+
 | __SOC__ | __LOC__ |
 | ------- | ------- |
 | Chair: Ben Keller (University of Memphis) | Chair: Philip Chang (UW Milwaukee) |
