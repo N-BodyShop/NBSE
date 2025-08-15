@@ -23,7 +23,7 @@ Conference sessions will be streamed on zoom, connect with [this link](https://w
 |Time   |Speaker                 |Title                                                                                                     |
 |-------|------------------------|----------------------------------------------------------------------------------------------------------|
 |9:00   |Philip Chang              |Welcome!                                                                                                  |
-|9:15   |Christensen             |The drivers of dwarf satellite quenching                                                                  |
+|9:15   |Charlotte Christensen             |The drivers of dwarf satellite quenching                                                                  |
 |9:40   |Nithun Selva            |Tracing the Formation of Stellar Halos in Dwarf Galaxies                                                  |
 |10:05  |Alyson Brooks           |The Diversity of Rotation Curves in CDM                                                                   |
 |10:30  |Coffee Break            |-                                                                                                         |
