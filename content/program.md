@@ -30,12 +30,12 @@ Conference sessions will be streamed on zoom, connect with [this link](https://w
 |11:00  |Blake Keith (Virtual)   |Tracing Dark Matter: How Galaxy Shapes Mirror Dark Matter Halos In Dwarf Galaxies                         |
 |11:25  |Alex Pettitt (Virtual)  |Updates on the BESPOKE simulation project                                                                 |
 |11:50  |Lunch                   |-                                                                                                         |
-|13:00  |Ben Keller              |A cute bundle of PUGS: next-gen galaxy zooms                                                              |
+|13:00  |Ben Keller              |A cute bundle of PUGS: next-gen galaxy zooms to explore stellar uncertainties                             |
 |13:25  |Adrian Plenefisch       |Implementing Galactic Wind Subgrid Models in ChaNGa                                                       |
 |13:50  |Oge Okoronkwo           |Galactic Winds and The Multiphase Structure of the CircumGalactic Medium                                  |
 |14:15  |Coffee Break            |-                                                                                                         |
 |15:00  |Padraic Odesse (Virtual)|Simulating a realistic interstellar medium with TREVR2 radiative transfer and molecular hydrogen chemistry|
-|15:25  |Nicholas Owens          |Cosmic Rays: A Novel Means of Feedback in SPH                                                             |
+|15:25  |Nicholas Owens (Virtual)|Cosmic Rays: A Novel Means of Feedback in SPH                                                             |
 |15:50  |End of Day              |-                                                                                                         |
 ## Wednesday, August 20
 |Time |Speaker                 |Title                                                                                                     |
