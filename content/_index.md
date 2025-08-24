@@ -11,8 +11,9 @@ Join us in August 2025 for the N-Body Shop Excellence Conference in Milwaukee, W
 for ChaNGa and gasoline users and developers, followed by a three-day conference on August 19-21. The conference will feature talks
 from PIs, postdocs, and students in the N-Body Shop highlighting our work on star formation, galaxy evolution, cosmology and more.  Online participation will be available for those who cannot attend in person, with a link provided to those who register.
 
-Conference sessions will be streamed on zoom, connect with [this link](https://wisconsin-edu.zoom.us/j/96362006211?pwd=WK0dq3UBdIBM1pyEzvtHyaaVhRPE29.1)
+Conference sessions were streamed on zoom, and recordings can be found in the [Videos, Slides, \& Notes](videos/) page.
 
+{{< figure src="../images/conference_photo.jpg" >}}
 
 | __SOC__ | __LOC__ |
 | ------- | ------- |
