@@ -14,3 +14,5 @@ Zoom recording of the day's conference talks.
 Zoom recording of the day's conference talks.  Unfortunately, the recording
 for some of this day's talks was lost.
 # Conference Day 3 (Thursday, August 21)
+## [Video Recording](https://youtu.be/oCr2fq88UWI)
+Zoom recording of the day's conference talks.
